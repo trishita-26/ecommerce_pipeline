@@ -139,7 +139,6 @@ Install:
 **👤 Name:** Trisita Ghosh
 **📍 Location:** Roorkee, Uttarakhand
 **📧 Email:** **[trishitaheli@gmail.com](mailto:trishitaheli@gmail.com)**
-**📱 Phone:** **9609106711**
 **🔗 LinkedIn:** [https://www.linkedin.com/in/trisitaghosh/](https://www.linkedin.com/in/trisitaghosh/)
 **💻 GitHub:** [https://github.com/trishita-26](https://github.com/trishita-26)
 
